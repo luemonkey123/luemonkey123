@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning Python data structures and algorithms **Flask**
 
-- 📫 How to reach me **bluemonkey3.1415926@gmail.com**
+- 📫 How to reach me: **bluemonkey3.1415926@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/12BaeVfdG2v0xhyXfGW3yEhVgIMvjb48qhw8wXRxrGNs/edit?usp=sharing](https://docs.google.com/document/d/12BaeVfdG2v0xhyXfGW3yEhVgIMvjb48qhw8wXRxrGNs/edit?usp=sharing)
 
-- ⚡ Fun fact **I love riding my bike**
+- ⚡ Fun fact: **I love riding my bike**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
