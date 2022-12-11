@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm luemonkey123</h1>
 <h3 align="center">A passionate kid learning data structures and algorithms in python</h3>
 
-- 🌱 I’m currently learning Python data structures and algorithms **Flask**
+- 🌱 I’m currently learning Python data structures and algorithms and **Flask** too
 
 - 📫 How to reach me: **bluemonkey3.1415926@gmail.com**
 
